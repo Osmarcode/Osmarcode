@@ -1,5 +1,5 @@
 ## 👨‍💻 Osmar Siqueira
-Sou um desenvolvedor back-end apaixonado por tecnologia, com 3 anos de experiência no Desenvolvimento de Sistemas. Possuo expertise em Java, Spring Framework e PL/SQL, focado na criação de soluções robustas, escaláveis e eficientes que atendem aos requisitos técnicos e de negócio.
+Desenvolvedor Back-end com 3+ anos de experiência no Desenvolvimento de Sistemas com Java, Spring Framework e PL/SQL, focado na criação e evolução de soluções robustas, escaláveis e alinhadas às necessidades do negócio.
 
 ### 🚀 Experiência Profissional
 
@@ -37,19 +37,19 @@ Estou sempre em busca de novos desafios para aplicar minhas habilidades técnica
   
 <img 
   align="left" 
-  alt="Java"
-  title="Java"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-  align="left" 
   alt="Spring"
   title="Spring"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img 
+  align="left" 
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
   align="left" 
@@ -122,6 +122,14 @@ Estou sempre em busca de novos desafios para aplicar minhas habilidades técnica
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+<img 
+  align="left" 
+  alt="GitLab"
+  title="GitLab"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"
 />
 <img 
   align="left" 
